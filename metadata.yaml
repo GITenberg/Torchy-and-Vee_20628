@@ -1,0 +1,29 @@
+_repo: Torchy-and-Vee_20628
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Sewell
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '7287'
+    url: http://www.gutenberg.org/2009/agents/7287
+description: ''
+gutenberg_issued: '2007-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Private secretaries -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- United States -- Fiction'
+title: Torchy and Vee
+url: http://www.gutenberg.org/ebooks/20628
